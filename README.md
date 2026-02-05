@@ -22,7 +22,10 @@
     <sup>4</sup>University of Groningen&emsp;
 </div>
 
-![Demo animation](./asset/figure.gif)
+
+## Overall
+
+<img src="./asset/figure.gif" width="80%" alt="Demo animation" />
 
 ## Abstract
 
