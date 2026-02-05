@@ -23,7 +23,7 @@
 </div>
 
 
-## Overall
+## Overview
 
 <img src="./asset/figure.gif" width="80%" alt="Demo animation" />
 
